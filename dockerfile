@@ -28,3 +28,5 @@ EXPOSE 80
 
 #Executing the application after creating image:
 CMD ["nginx", "-g", "daemon off;"]
+
+# Ended of the code 
